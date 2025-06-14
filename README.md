@@ -47,6 +47,10 @@ The final output is saved in `output.json` and looks like this:
 }
 
 
-Author
-Project created by Oualid Benhamou
-For educational and demonstration purposes.
+---
+
+## 👤 Author
+
+**Project created by [Oualid Benhamou](https://github.com/iamoualiid)**  
+Built as part of an academic assignment on multi-agent AI systems.  
+Shared publicly for learning, inspiration, and demonstration purposes.
