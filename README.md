@@ -45,6 +45,7 @@ The final output is saved in `output.json` and looks like this:
   ],
   "url_source": "https://..."
 }
+```json
 
 
 ---
